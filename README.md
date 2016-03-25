@@ -1,2 +1,3 @@
 # hello-world
-hello world github tutorial
+
+if you are reading this then you need to get out of mom's basement and git a life.
